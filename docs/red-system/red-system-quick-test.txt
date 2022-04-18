@@ -62,7 +62,7 @@ Quick-Test expects the following Red directory structure:
 		system/
 			tests/                  ;; the main test directory
 				run-all.r           ;; runs all Red/System tests
-				source/             ; all test sources
+				source/             ;; all test sources
 					compiler/		;; tests of the compiler
 					run-time/       ;; tests of the run time library
 					units/          ;; base language tests (eg datatype tests)
